@@ -6,5 +6,12 @@
         “Hyderabad” and display the result in your browser. */
 
 
+        var ActualWord = "Hyderabad";
+
+                ReplaceWord = ActualWord.replace(/Hyder/g,"Islam")
+                document.write("Actual Word is :- " + ActualWord + "<br>" + "Replace Word is :- " + ReplaceWord);
+
+
+
 
         
