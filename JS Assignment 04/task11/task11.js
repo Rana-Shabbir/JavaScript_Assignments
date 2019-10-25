@@ -21,3 +21,9 @@ var val = 666;
 console.log(Math.abs(val % 1));
 console.log(Math.abs(val - 1));
 console.log(Math.abs(val + 1));
+
+
+/*-=-=-=-=-=-=-=-=-=-=--=-=- Assignment 4 - Task No :- 11 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*/
+
+        var NumInput = Math.abs(prompt("Enter Num Only"));
+            console.log(NumInput % 9)
